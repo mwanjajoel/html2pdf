@@ -23,3 +23,7 @@ At this stage, make sure you have installed the ` whhtmltopdf ` package. This is
 ` python html2pdf.py ` 
 
 Feel free to change the URL to whatever you wish 
+
+✌🏾
+
+Made in 🇺🇬
