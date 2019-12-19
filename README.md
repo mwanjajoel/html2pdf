@@ -14,6 +14,10 @@ Run the following commands to install.
 
 ` pip install -r requirements.txt `
 
+At this stage, make sure you have installed the ` whhtmltopdf ` package. This is the link for more details
+
+ [https://github.com/JazzCore/python-pdfkit/wiki/Installing-wkhtmltopdf](https://github.com/JazzCore/python-pdfkit/wiki/Installing-wkhtmltopdf) 
+
 ### Run! 🏃🏾‍♂️
 
 ` python html2pdf.py ` 
